@@ -1,8 +1,8 @@
 ### Rudimentary Pay Stripe App
 
 #### Prerequisites
-IntelliJ IDEA: Download and install IntelliJ IDEA (Community or Ultimate Edition) from https://www.jetbrains.com/idea/.
-Node.js Plugin: IntelliJ IDEA should come with this bundled. If not, you might need to install the Node.js plugin under "Settings" -> "Plugins".
+1. IntelliJ IDEA: Download and install IntelliJ IDEA (Community or Ultimate Edition) from https://www.jetbrains.com/idea/.
+2. Node.js Plugin: IntelliJ IDEA should come with this bundled. If not, you might need to install the Node.js plugin under "Settings" -> "Plugins".
 
 #### Opening the Project
 1. Launch IntelliJ IDEA.
