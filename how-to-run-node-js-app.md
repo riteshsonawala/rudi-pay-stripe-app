@@ -17,7 +17,7 @@ create file test.js under your project folder add following code to the file
 [test.js](test/test.js)
 
 ##### Replace Keys
-* replace your test keys at line 6:
+* replace your test keys at line 6:<br>
 `const stripeClient = stripe("------Keys Here----");`
 
 #### Run the Script
