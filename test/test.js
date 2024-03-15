@@ -3,7 +3,7 @@ const {log} = require("debug");
 
 const express = require('express');
 // Initialize Stripe with your secret key
-const stripeClient = stripe("sk_test_51Jc7EcG0mjB1TJvND7xa2hf0A1tz5Zgo3gJCOB6vklOlYaoAgEGdMNni54Duz6fT1vxspJvrD2xWi1ZtUZr4hBhf00EJDxZIoi");
+const stripeClient = stripe("------Keys Here----");
 
 // Create an Express app
 const app = express();

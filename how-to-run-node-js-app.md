@@ -15,6 +15,8 @@ Note: when you init it creates package.json, when you install stripe it adds the
 #### Create Your Node.js Script (e.g., test.js)
 create file test.js under your project folder add following code to the file
 [test.js](test/test.js)
+Replace your test keys at line 6:
+`const stripeClient = stripe("------Keys Here----");`
 
 #### Run the Script
 `Bash
